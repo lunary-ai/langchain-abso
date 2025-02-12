@@ -21,4 +21,3 @@ from langchain_abso import ChatAbso
 llm = ChatAbso(fast_model="gpt-4o", slow_model="o3-mini")
 llm.invoke("Sing a ballad of LangChain.")
 ```
-# langchain-abso
